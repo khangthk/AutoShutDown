@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>autoshutdown.ico</file>
+        <file>res/hibernate.png</file>
+        <file>res/lock.png</file>
+        <file>res/monitor.png</file>
+        <file>res/restart.png</file>
+        <file>res/shutdown.png</file>
+        <file>res/shutdown2.png</file>
+        <file>res/signout.png</file>
+        <file>res/sleep.png</file>
+    </qresource>
+</RCC>
